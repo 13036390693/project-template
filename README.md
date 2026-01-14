@@ -10,4 +10,6 @@ This is an example project to demonstrate how to build a well structured and wel
 ## ⚙️ 安装指南
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/你的用户名/my-project.git
+   git clone https://github.com/13036390693/project-template.git
+
+   
